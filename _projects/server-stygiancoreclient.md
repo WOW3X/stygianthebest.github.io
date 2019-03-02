@@ -27,20 +27,21 @@ description: >
 
 ## DOWNLOAD
 
-- **StygianCore Client Upgrade** _(Release v2019.03.01)_
+- **StygianCore HD Client Upgrade** _(Release v2019.03.01)_
   - [Mirror 1 (MEGA)](https://rebrand.ly/stygiancore_client_mega)
-  - [Mirror 2 (MediaFire)](https://rebrand.ly/stygiancore_client_mediafire)
-
+  - [Mirror 2 (Google)](https://rebrand.ly/stygiancore_client_google)
+  
 - **StygianCore Repack** _(Release v2019.03.01)_
+  - [View Project Details](https://rebrand.ly/stygiancoreprojectspage)
   - [Mirror 1 (MEGA)](https://rebrand.ly/stygiancore_release_mega)
-  - [Mirror 2 (MediaFire)](https://rebrand.ly/stygiancore_release_mediafire)
+  - [Mirror 2 (Google)](https://rebrand.ly/stygiancore_release_google)
 
 ## INSTALLATION
 
 #### UPDATE YOUR WOW CLIENT INSTALLATION
 
 - **Unzip this archive into your your client's root folder.** 
-- **Run the 'SCClearCacheRun.bat file to clear the client cache and launch the client.**
+- **Run the 'SCClearCacheRun.bat' file to clear the client cache and launch the client.**
   
 ## PATCH UPGRADES
 _Patch filenames have been spaced to allow patch placement before or after each for testing new patches_ 
@@ -63,10 +64,13 @@ _Patch filenames have been spaced to allow patch placement before or after each 
 
 ## INTERFACE
 
+I've included a few essential add-ons that I modified to work with StygianCore as well as a library of other popular addons for WoW 3.3.5a.
+
 - [Random Animated Login Screens](https://rebrand.ly/randomloginscreens)
-- Carbonite - Customized for StygianCore with Map Teleport and other tools
-- TrinityAdmin - Customized for StygianCore/AzerothCore
-- A 3.3.5a AddOn Library including a lot of popular and useful addons
+- Carbonite 3.3.4 -  Customized for StygianCore
+- [TrinityMagic](https://github.com/karlbunch/LordKator_TrinityMagic) - Adds a Teleport function to the Carbonite Mini-Map among other useful features. This feature is awesome!
+- TrinityAdmin - Updated for StygianCore/AzerothCore
+- An addon library including a lot of popular and useful addons for WoW 3.3.5a
 - Additional Login Screen Patches (Classic WoW & The Burning Crusade)
 
 ## TOOLS
